@@ -24,6 +24,5 @@
 | --- | --- | ---|
 | [**`blog-vue` 一个Vue3+Express动态博客的前端**](https://github.com/qxchuckle/blog-vue) | <img src="https://img.shields.io/github/stars/qxchuckle/blog-vue?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/blog-vue?style=social" height="22" align="top" /> |
 | [**`blog-server` 一个Vue3+Express动态博客的后端**](https://github.com/qxchuckle/blog-server) | <img src="https://img.shields.io/github/stars/qxchuckle/blog-server?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/blog-server?style=social" height="22" align="top" /> |
-| [**`right-menu`** 功能强大的右键菜单插件【多级菜单 / 异步渲染 / 骨架Loading / 自适应主题】](https://github.com/buuing/right-menu) | <img src="https://img.shields.io/github/stars/buuing/right-menu?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/buuing/right-menu?style=social" height="22" align="top" /> |
 
 <br />
