@@ -20,5 +20,6 @@ HBuilder X | IDEA | ApiPost
 | --- | --- | ---|
 | [**`blog-vue` 一个Vue3+Express动态博客的前端**](https://github.com/qxchuckle/blog-vue) | <img src="https://img.shields.io/github/stars/qxchuckle/blog-vue?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/blog-vue?style=social" height="22" align="top" /> |
 | [**`blog-server` 一个Vue3+Express动态博客的后端**](https://github.com/qxchuckle/blog-server) | <img src="https://img.shields.io/github/stars/qxchuckle/blog-server?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/blog-server?style=social" height="22" align="top" /> |
+| [**`Post-Summary-AI` 通用的博客文章AI摘要生成器**](https://github.com/qxchuckle/Post-Summary-AI) | <img src="https://img.shields.io/github/stars/qxchuckle/Post-Summary-AI?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/Post-Summary-AI?style=social" height="22" align="top" /> |
 
 <br />
