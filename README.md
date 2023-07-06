@@ -3,9 +3,9 @@
 - 轻笑Chuckle；
 - 漫天倾尘，风中轻笑；
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=qxchuckle&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=qxchuckle&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900" />
 
-#### 语言与框架
+<!-- #### 语言与框架
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -16,7 +16,7 @@
 #### 常用工具
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code> -->
 
 #### 个人项目
 
