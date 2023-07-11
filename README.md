@@ -3,12 +3,6 @@
 - 轻笑Chuckle
 - 漫天倾尘，风中轻笑
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qxchuckle&theme=react&hide=html,css,dockerfile,shell,Objective-C,cmake,scss,ejs,stylus&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
-  
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=qxchuckle&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true"/>
-</p>
-
 ### 个人项目
 
 | 项目 | Stars | Forks |
@@ -19,6 +13,11 @@
 | [**`paste-share` 文本、代码粘贴分享平台-vue3前端**](https://github.com/qxchuckle/paste-share) | <img src="https://img.shields.io/github/stars/qxchuckle/paste-share?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/paste-share-server?style=social" height="22" align="top" /> |
 | [**`paste-share-server` 文本、代码粘贴分享平台-Express后端**](https://github.com/qxchuckle/paste-share-server) | <img src="https://img.shields.io/github/stars/qxchuckle/paste-share-server?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/paste-share-server?style=social" height="22" align="top" /> |
 
-
-
 <br />
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qxchuckle&theme=react&hide=html,css,dockerfile,shell,Objective-C,cmake,scss,ejs,stylus&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=qxchuckle&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true"/>
+</p>
+
