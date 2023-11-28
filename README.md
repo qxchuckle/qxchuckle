@@ -13,6 +13,7 @@
 | [**`paste-share` 文本、代码粘贴分享平台-vue3前端**](https://github.com/qxchuckle/paste-share) | <img src="https://img.shields.io/github/stars/qxchuckle/paste-share?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/paste-share-server?style=social" height="22" align="top" /> |
 | [**`paste-share-server` 文本、代码粘贴分享平台-Express后端**](https://github.com/qxchuckle/paste-share-server) | <img src="https://img.shields.io/github/stars/qxchuckle/paste-share-server?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/paste-share-server?style=social" height="22" align="top" /> |
 | [**`vsc-cec-ide` 一个插件，国产化你的VSCode，源于CEC-IDE，有敏感词检测**](https://github.com/qxchuckle/vsc-cec-ide) | <img src="https://img.shields.io/github/stars/qxchuckle/vsc-cec-ide?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/vsc-cec-ide?style=social" height="22" align="top" /> |
+| [**`qx-tracker` 一个前端监控和埋点SDK，为你的web应用收集数据信息**](https://github.com/qxchuckle/qx-tracker) | <img src="https://img.shields.io/github/stars/qxchuckle/qx-tracker?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/qx-tracker?style=social" height="22" align="top" /> |
 
 <br />
 
