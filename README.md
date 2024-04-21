@@ -15,6 +15,7 @@
 | [**`vsc-cec-ide` 一个插件，国产化你的VSCode，源于CEC-IDE，有敏感词检测**](https://github.com/qxchuckle/vsc-cec-ide) | <img src="https://img.shields.io/github/stars/qxchuckle/vsc-cec-ide?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/vsc-cec-ide?style=social" height="22" align="top" /> |
 | [**`qx-tracker` 一个前端监控和埋点SDK，为你的web应用收集数据信息**](https://github.com/qxchuckle/qx-tracker) | <img src="https://img.shields.io/github/stars/qxchuckle/qx-tracker?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/qx-tracker?style=social" height="22" align="top" /> |
 | [**`copyright-code` VSCode插件-软著代码生成助手**](https://github.com/qxchuckle/copyright-code) | <img src="https://img.shields.io/github/stars/qxchuckle/copyright-code?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/copyright-code?style=social" height="22" align="top" /> |
+| [**`vsc-drafts` VSCode插件-草稿本**](https://github.com/qxchuckle/vsc-drafts) | <img src="https://img.shields.io/github/stars/qxchuckle/vsc-drafts?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/vsc-drafts?style=social" height="22" align="top" /> |
 
 <br />
 
