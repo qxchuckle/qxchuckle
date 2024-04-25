@@ -16,7 +16,7 @@
 | [**`qx-tracker` 一个前端监控和埋点SDK，为你的web应用收集数据信息**](https://github.com/qxchuckle/qx-tracker) | <img src="https://img.shields.io/github/stars/qxchuckle/qx-tracker?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/qx-tracker?style=social" height="22" align="top" /> |
 | [**`copyright-code` VSCode插件-软著代码生成助手**](https://github.com/qxchuckle/copyright-code) | <img src="https://img.shields.io/github/stars/qxchuckle/copyright-code?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/copyright-code?style=social" height="22" align="top" /> |
 | [**`vsc-drafts` VSCode插件-草稿本**](https://github.com/qxchuckle/vsc-drafts) | <img src="https://img.shields.io/github/stars/qxchuckle/vsc-drafts?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/vsc-drafts?style=social" height="22" align="top" /> |
-| [**`virtual-list-demo` vue3各种虚拟列表demo**](https://github.com/qxchuckle/virtual-list-demo) | <img src="https://img.shields.io/github/stars/qxchuckle/virtual-list-demo?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/virtual-list-demo?style=social" height="22" align="top" /> |
+| [**`virtual-list-demo` vue3+TS各种虚拟列表demo**](https://github.com/qxchuckle/virtual-list-demo) | <img src="https://img.shields.io/github/stars/qxchuckle/virtual-list-demo?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/virtual-list-demo?style=social" height="22" align="top" /> |
 
 <br />
 
