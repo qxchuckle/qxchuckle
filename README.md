@@ -17,7 +17,6 @@
 | [**`Post-Summary-AI` 通用的博客文章AI摘要生成器**](https://github.com/qxchuckle/Post-Summary-AI) | <img src="https://img.shields.io/github/stars/qxchuckle/Post-Summary-AI?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/Post-Summary-AI?style=social" height="22" align="top" /> |
 | [**`paste-share` 文本、代码粘贴分享平台-vue3前端**](https://github.com/qxchuckle/paste-share) | <img src="https://img.shields.io/github/stars/qxchuckle/paste-share?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/paste-share-server?style=social" height="22" align="top" /> |
 | [**`paste-share-server` 文本、代码粘贴分享平台-Express后端**](https://github.com/qxchuckle/paste-share-server) | <img src="https://img.shields.io/github/stars/qxchuckle/paste-share-server?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/paste-share-server?style=social" height="22" align="top" /> |
-| [**`vsc-cec-ide` 一个插件，国产化你的VSCode，源于CEC-IDE，有敏感词检测**](https://github.com/qxchuckle/vsc-cec-ide) | <img src="https://img.shields.io/github/stars/qxchuckle/vsc-cec-ide?style=social" height="22" align="top" /> | <img src="https://img.shields.io/github/forks/qxchuckle/vsc-cec-ide?style=social" height="22" align="top" /> |
 
 <br />
 
